@@ -1,0 +1,12 @@
+Project title: Jams
+Publisher: Aim Entertainment
+Team: A5
+Description: Valk goes on a top down adventure to get out of this dungeon. On her way she has to fight off enemies and collect ice cream. Win the game for a surprise!
+Dev Team: Rodney Thomas, Damedev
+Art team: Damedev, IgnBigfoot. FoleaTadpole
+Copyright team: A.T.
+Producers: ThelamestGuy, Rodney Thomas
+Music composition: Rodney Thomas, Damedev
+Release date: November 22nd, 2020
+Closed Beta: November 5th, 2020
+Partners: Nintendo
