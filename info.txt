@@ -10,3 +10,4 @@ Music composition: Rodney Thomas, Damedev
 Release date: November 22nd, 2020
 Closed Beta: November 5th, 2020
 Partners: Nintendo
+Devices to publish: Switch, PC, Mobile
